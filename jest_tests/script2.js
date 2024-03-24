@@ -1,3 +1,7 @@
+
+//This function, getData, asynchronously retrieves data from the Star Wars API
+// (swapi.dev) and returns it in an object containing the count of people
+// and an array of results.
 const getData = async ()=>{
     try
     {
